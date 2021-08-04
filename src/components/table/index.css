@@ -1,0 +1,20 @@
+.header{
+    margin: 30px 80px;
+}
+.btn{
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;    
+    background: white;
+    height: 46px;
+    width: 127px;
+    border-radius: 40px;
+    padding: 16px 30px;
+    border: 3px solid #005FEE;
+    text-decoration: none;
+    cursor: pointer;
+}
